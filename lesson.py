@@ -1,1 +1,2 @@
-print('Barev Tim jan!')
+for i in range(10):
+    print(i)
